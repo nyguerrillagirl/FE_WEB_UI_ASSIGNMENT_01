@@ -1,0 +1,27 @@
+{
+  "name": "project_assignment_01",
+  "version": "1.0.0",
+  "description": "Front-End Web UI Frameworks and Tools - Assignment #1",
+  "main": "aboutus.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "keywords": [
+    "bootstrap",
+    "ui",
+    "cousera",
+    "assignment"
+  ],
+  "author": "Lorraine Figueroa",
+  "license": "ISC",
+  "devDependencies": {
+    "lite-server": "^2.3.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.12.9"
+  }
+}
